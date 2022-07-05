@@ -26,11 +26,11 @@
     <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
 
 <a href="https://www.linkedin.com/in/devjunior/">
-    <img align="right" src="https://site.groupe-psa.com/content/uploads/sites/9/2016/12/white-background-2.jpg" height="30" width="550">
+    <img align="right" src="https://site.groupe-psa.com/content/uploads/sites/9/2016/12/white-background-2.jpg" height="30" width="30">
 </a>
     
 <a href="https://www.linkedin.com/in/devjunior/">
-    <img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
 </a>
     
 
