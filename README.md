@@ -5,8 +5,8 @@
 - 🔭 Sou um Web Developer!
 - 🌱 No momento aprofundando meus conhecimentos em React e Node!
 - 👯 Estou desenvolvendo o site da minha Startup, e aprendendo muito no caminho rsrs
-- 🤔 Curioso? Dê uma olhada: http://lexas.com.br/ (Ainda está em beta e cheio de bugs! Mas vai ficar bonitinho uma hora rsrs)
-- 💬 Para um PortFólio, acesse https://www.devjunior.x10.mx/
+- 🤔 Curioso? **Dê uma olhada**: http://lexas.com.br/ (Ainda está em beta e cheio de bugs! Mas vai ficar bonitinho uma hora rsrs)
+- 💬 Para um **Portfólio**, acesse https://www.devjunior.x10.mx/
 - 📫 Para contato, favor dar preferência ao e-mail ^^ (alexwesley97@gmail.com) 
 - ⚡ Amo pêssegos! 🍑💕
 
