@@ -1,4 +1,4 @@
-### Olá, me chamo Alex! <img src="https://c.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" width="30">
+### Olá, eu sou o Alex! <img src="https://c.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" width="30">
 
 <br>
 
