@@ -8,7 +8,7 @@
 - 🤔 Curioso? **Dê uma olhada**: (desatualizado)
 - 💬 Para um **Portfólio**, acesse (desatualizado)
 - 📫 Para contato, favor dar preferência ao e-mail ^^ (alexwesley97@gmail.com) 
-- ⚡ Amo passarinhos! 🐦💕
+- ⚡ Amo pássaros! 🐦💕
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Secscy&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
