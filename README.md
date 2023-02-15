@@ -2,7 +2,7 @@
 
 <br>
 
-- 🔭 Sou um Mobile Developer!
+- 🔭 Sou um Fullstack Developer!
 - 🌱 No momento aprofundando meus conhecimentos em Flutter e Node!
 - 👯 Estou desenvolvendo o sistema da minha Startup, e aprendendo muito no caminho rsrs
 - 🤔 Curioso? **Dê uma olhada**: (desatualizado)
