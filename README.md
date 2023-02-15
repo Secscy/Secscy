@@ -2,13 +2,13 @@
 
 <br>
 
-- 🔭 Sou um Web Developer!
-- 🌱 No momento aprofundando meus conhecimentos em React e Node!
-- 👯 Estou desenvolvendo o site da minha Startup, e aprendendo muito no caminho rsrs
-- 🤔 Curioso? **Dê uma olhada**: http://lexas.com.br/ (Ainda está em beta e cheio de bugs! Mas vai ficar bonitinho uma hora rsrs)
-- 💬 Para um **Portfólio**, acesse https://www.devjunior.x10.mx/
+- 🔭 Sou um Mobile Developer!
+- 🌱 No momento aprofundando meus conhecimentos em Flutter e Node!
+- 👯 Estou desenvolvendo o sistema da minha Startup, e aprendendo muito no caminho rsrs
+- 🤔 Curioso? **Dê uma olhada**: (desatualizado)
+- 💬 Para um **Portfólio**, acesse (desatualizado)
 - 📫 Para contato, favor dar preferência ao e-mail ^^ (alexwesley97@gmail.com) 
-- ⚡ Amo pêssegos! 🍑💕
+- ⚡ Amo passarinhos! 🐦💕
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Secscy&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
