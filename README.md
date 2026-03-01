@@ -1,13 +1,13 @@
-### Olá, eu sou o Alex! <img src="https://c.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" width="30">
+### Ye, it's Alex! <img src="https://c.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" width="30">
 
 <br>
 
-- 🔭 Sou um Fullstack Developer!
-- 🌱 No momento aprofundando meus conhecimentos em Flutter e Node!
-- 👯 Estou desenvolvendo o sistema da minha Startup, e aprendendo muito no caminho rsrs
-- 🤔 Curioso? **Dê uma olhada**: (desatualizado)
-- 💬 Para um **Portfólio**, acesse (desatualizado)
-- 📫 Para contato, favor dar preferência ao e-mail ^^ (alexwesley97@gmail.com) 
+- 🔭 I'm a hacker!
+- 🌱 Currently deepening my knowledge in APT!
+- 👯 I'm developing international security systems and learning a ton along the way lol
+- 🤔 Curious? Take a look: (outdated, removed)
+- 💬 For my **Portfolio**, visit: (outdated, removed)
+- 📫 Feel free to reach out via email (it's the best way to catch me!): adsminepool@gmail.com
 - ⚡ Amo pássaros! 🐦💕
 
 <div>
