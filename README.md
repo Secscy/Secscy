@@ -10,11 +10,6 @@
 - 📫 Feel free to reach out via email (it's the best way to catch me!): adsminepool@gmail.com
 - ⚡ Amo pássaros! 🐦💕
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Secscy&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Secscy&layout=compact&langs_count=16&theme=react"/>
-</div>
-
 
 <div style="display:inline-block;"><br>
     <img align="center" alt="Alex-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
